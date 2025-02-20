@@ -16,8 +16,10 @@ FFUF-Automation is a Python script designed to automate FFUF (Fast web FUzzer) f
 - Required Python libraries (pip install -r requirements.txt)
 ## 🔥 Usage
 Run the script with a target URL and wordlist:
+```bash
 python ffuf_automation.py -u https://target.com/FUZZ -w wordlist.txt
+```
 ![image](https://github.com/user-attachments/assets/2158abf1-a2da-458d-b66b-963016fdf6e4)
 
 ##📜 License
-This project is open-source. Contributions are welcome! 🚀
+- This project is open-source. Contributions are welcome! 🚀
